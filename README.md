@@ -1,5 +1,5 @@
 ## My Background
-- 🎓 **Education:** I hold a degree in Civil Engineering.
+- 🎓 **Education:** I hold a degree in Engineering.
 - 💼 **Professional Experience:** I have worked in investment banking, gaining experience in financial analysis, data analysis, and working with substantial datasets.
 
 ## Goals
